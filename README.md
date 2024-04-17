@@ -1,4 +1,5 @@
 # opensource-project
 
 # Design Prototype 
-https://drive.google.com/file/d/1xXYIxmUnSmo9JQNSwX-uXrSCHrVkOcxK/view?usp=sharing
+* open this with draw.io: https://drive.google.com/file/d/1xXYIxmUnSmo9JQNSwX-uXrSCHrVkOcxK/view?usp=sharing
+
